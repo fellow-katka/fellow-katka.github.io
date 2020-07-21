@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Fellowfinance"
-AuthUserFile .htpasswd
-require valid-user
